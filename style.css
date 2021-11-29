@@ -1,0 +1,29 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+  }
+
+  ul {
+    padding-left: 1rem;
+    list-style-type: none;
+  }
+  
+  ul li {
+    padding-left: 1.7rem;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GeneralStar.svg/langru-800px-GeneralStar.svg.png');
+    background-position: 0 0;
+    background-size: 1rem;
+    background-repeat: no-repeat;
+  }
+
+  ol {
+      padding-left: 2rem;
+  }
+
+  ol li {
+      padding-left: 0.5rem;
+  }
+
+  img {
+      border-radius: 100px;
+  }
